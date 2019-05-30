@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Woe on wine,");
         System.out.println("At night staggering taverns\n");
         System.out.println("You forget about her");
+        System.out.println("Open the door to me");
+        System.out.println("Your friend has returned from the sea");
     }
 }
